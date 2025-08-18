@@ -5,5 +5,7 @@ xhofe/alist:latest
 ubuntu:24.04
 redis:latest
 calico/cni:v3.25.0-127-gf7adeab93e04
+calico/node:v3.25.0-127-gf7adeab93e04
+calico/kube-controllers:v3.25.0-127-gf7adeab93e04
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
