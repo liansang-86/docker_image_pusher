@@ -9,8 +9,8 @@ calico/node:v3.25.0
 calico/kube-controllers:v3.25.0
 agilestacks/fluentd-elasticsearch:v1.3.0
 nginx:latest
-nginx:v1.7.9
-nginx:v1.7.5
+nginx:v1.7.0
+nginx:v1.8.0
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
 k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
 #支持指定架构
