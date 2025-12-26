@@ -14,5 +14,6 @@ nginx:1.26-alpine
 k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.3.0
 k8s.gcr.io/prometheus-adapter/prometheus-adapter:v0.9.1
 registry.k8s.io/metrics-server/metrics-server:v0.8.0
+registry.k8s.io/ingress-nginx/controller:v1.1.0@sha256:7464dc5abf0d5c4c4d70b6d6d19bd7b5a6d66c2f2a9b4c5c5b5e5e5e5e5e5e5e
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
